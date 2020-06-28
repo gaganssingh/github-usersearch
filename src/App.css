@@ -2,11 +2,11 @@
 
 /* Global Styles */
 :root {
-   --primary-color: #dc3545;
-   --dark-color: #333333;
-   --light-color: #f4f4f4;
+   --primary-color: #14213d;
+   --dark-color: #2a2a2d;
+   --light-color: #fca311;
    --danger-color: #dc3545;
-   --success-color: #28a745;
+   --success-color: #1d7431;
 }
 
 * {
